@@ -1,0 +1,9 @@
+[DEFAULT]
+tenancy = ocid1.tenancy.oc1..aaaaaaaa5eerf7ajzwvn4p4h7has7dg7fziwmnyyorhqo3xv3ob5lpxqczea
+fingerprint = fe:71:2b:69:94:a9:be:f4:02:cd:cd:20:93:80:c4:61
+user = ocid1.user.oc1..aaaaaaaat7i5gv5owpdeypo3xnhnkt2bdy4q5qa3fiyppaolugel345zljfa
+key_file = /cd3user/tenancies/Temp-1/oci_api_private.pem
+region = eu-frankfurt-1
+ad_1=EcFq:EU-FRANKFURT-1-AD-1
+ad_2=EcFq:EU-FRANKFURT-1-AD-2
+ad_3=EcFq:EU-FRANKFURT-1-AD-3
